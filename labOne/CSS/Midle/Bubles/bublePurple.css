@@ -1,0 +1,10 @@
+#bublePurple {
+    width: 400px;
+    height: 450px;
+    background-image: linear-gradient(to bottom right, #BE67D9 ,#5E27FC);
+    border-color: #BBBBBB;
+    border-width: 1px;
+    border-radius: 50px; 
+    margin-top: 10px;
+
+}

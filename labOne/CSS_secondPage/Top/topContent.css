@@ -1,0 +1,17 @@
+
+#topTitle {
+    width: 40%;
+    height: 180px;
+    text-align: left;
+    background-color: white;
+    float: left;
+    font-size: 80px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    padding-bottom: 10px;
+    position: absolute;
+    max-width: 400px;
+    min-width: 400px;
+    text-transform: uppercase;
+    
+}

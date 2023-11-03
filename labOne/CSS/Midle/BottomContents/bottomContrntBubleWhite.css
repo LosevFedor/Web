@@ -1,0 +1,15 @@
+#bottomContrntBubleWhite{
+
+    margin-top: 27px;
+    margin-left: 30px;
+    margin-right: 25px;
+    text-align: left;
+    padding-left: 0px;
+
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    
+    position: relative;
+    bottom: -160px;
+}

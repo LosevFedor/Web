@@ -1,0 +1,13 @@
+#bubleWhite {
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    border-radius: 50px; 
+
+    margin-top: 10px;
+
+    border-color:lightgray;
+    border-width: 1px;
+    border-style:double;
+
+}

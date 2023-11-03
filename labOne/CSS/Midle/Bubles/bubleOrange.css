@@ -1,0 +1,10 @@
+#bubleOrange {
+    width: 400px;
+    height: 450px;
+    background-image: linear-gradient(to bottom right, #FFC95D ,#FC7C05);
+    border-color: #BBBBBB;
+    border-width: 1px;
+    border-radius: 50px; 
+    margin-top: 10px;
+
+}
